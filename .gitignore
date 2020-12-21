@@ -1,4 +1,6 @@
 #vscode
 .vscode
 
+#opencv folder
 opencv/
+opencv
