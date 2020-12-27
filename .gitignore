@@ -8,3 +8,9 @@ opencv
 #faces
 faces
 faces data 
+
+#gui testing
+test gui.py
+
+#cache
+__pycache__
