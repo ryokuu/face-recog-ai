@@ -8,5 +8,5 @@ Also i got references from IqbalLx's github and youtube channel to understand th
 
 thanks to krishnaik06 and IqbalLx, hence i can finish my final project
 
-krishnaik06's github : bit.ly/3ocCS0Y
+krishnaik06's github : http://bit.ly/3ocCS0Y
 IqbalLx github : http://bit.ly/3ht8BZj
