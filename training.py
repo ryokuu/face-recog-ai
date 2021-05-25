@@ -33,4 +33,3 @@ def trainer():
     model.save('faces data/faces_data.yml')
     #print("Model trained sucessefully")
     messagebox.showinfo('Result','Training face data completed.')
-

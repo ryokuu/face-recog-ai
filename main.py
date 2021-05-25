@@ -7,6 +7,7 @@ import capture
 import training
 import recognize
 
+#declaring tkinter
 window = tk.Tk()
 window.title("Door lock system")
 window.geometry("550x300")
