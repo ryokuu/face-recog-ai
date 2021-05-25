@@ -16,7 +16,7 @@ IqbalLx github : http://bit.ly/3ht8BZj \
 
 Here are some documentation and [opencv algorithm explanation with program demo](https://drive.google.com/file/d/1Ud4Cd-cwyUcW3hD15QRSdbrSY2QaVThO/view?usp=sharing) in Bahasa.
 
-<img src ="screenshots/recordingdata.png" width="840" height="540">
+<img src ="screenshots/recordingdata.png" width="700" height="450">
 
 <img src ="screenshots/facedata.png" width="250" height="150">
 
